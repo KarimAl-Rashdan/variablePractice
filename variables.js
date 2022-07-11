@@ -7,3 +7,4 @@ var tuitionCost = 20,000
 var depositPaid = true
 var turingEnrolled = true
 var graduatedTuring = false
+var sentence = `{name} student roster`;// students enrolled in Turing Class of 2023
