@@ -1,0 +1,9 @@
+var email = "karim.alrashdan14@gmail.com"
+var name = "Karim Al-Rashdan"
+var turingCourse = "Front End"
+var age = 24
+var birthYear = 1998
+var tuitionCost = 20,000
+var depositPaid = true
+var turingEnrolled = true
+var graduatedTuring = false
